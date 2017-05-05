@@ -1,6 +1,6 @@
 # planet-pipeline
 
-[![DOI](https://zenodo.org/badge/76872843.svg)](https://zenodo.org/badge/latestdoi/76872843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.572116.svg)](https://doi.org/10.5281/zenodo.572116)
 
 This project develops an input-output pipeline for large volume satellite imagery
 
